@@ -1,3 +1,8 @@
+it a basicallay a react project you can say mini BMI Calculator 
+#to run 
+
+export this files in any code editor
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
